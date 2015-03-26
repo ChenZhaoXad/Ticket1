@@ -1,0 +1,9 @@
+project/project
+target
+*.iml
+.idea
+.history
+dev.conf
+*~
+log4j.properties
+.ensime*
